@@ -17,7 +17,7 @@ Cyber governance, risk and compliance for UAE banks, regulated firms and critica
 | --- | --- |
 | [cbuae-orm-cyber-crosswalk](https://github.com/CyberHak44/cbuae-orm-cyber-crosswalk) | 39 requirements from the CBUAE Operational Risk Management Regulation (in force 14 Sep 2026) mapped to ISO 27001, NIST CSF 2.0 and UAE IA, with the 12 places an ISO certificate is not enough |
 | [iec62443-building-ot-crosswalk](https://github.com/CyberHak44/iec62443-building-ot-crosswalk) | 31 IEC 62443 requirements mapped to ISO 27001 and UAE IA for the systems inside buildings (BMS, AV, CCTV, access control), with the 16 places an ISMS falls short |
-| grc-workbench *(in build)* | One browser-based tool for asset and risk registers, the ISO 27001 Statement of Applicability, third-party risk scoring and CBUAE readiness, all sharing one data set. Every control is tagged to ISO 27001, UAE IA and IEC 62443, so one assessment answers all three. Data stays on the user's machine |
+| [grc-workbench](https://github.com/CyberHak44/grc-workbench) *(v0.1, in build)* | One browser-based tool for asset and risk registers, the ISO 27001 Statement of Applicability, third-party risk scoring and CBUAE readiness, all sharing one data set. Every control is tagged to ISO 27001, UAE IA and IEC 62443, so one assessment answers all three. Data stays on the user's machine |
 
 ## Intelligent Environments
 
