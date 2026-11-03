@@ -19,6 +19,14 @@ Cyber governance, risk and compliance for UAE banks, regulated firms and critica
 | [iec62443-building-ot-crosswalk](https://github.com/CyberHak44/iec62443-building-ot-crosswalk) | 31 IEC 62443 requirements mapped to ISO 27001 and UAE IA for the systems inside buildings (BMS, AV, CCTV, access control), with the 16 places an ISMS falls short |
 | [grc-workbench](https://github.com/CyberHak44/grc-workbench) *(v1.1)* | One browser-based tool for asset and risk registers, the ISO 27001 Statement of Applicability, third-party risk scoring, CBUAE readiness and a one-page gap report, all sharing one data set. Every control is tagged to ISO 27001, UAE IA and IEC 62443, so one assessment answers all three. Data stays on the user's machine |
 
+## How I use AI
+
+I use AI to work faster, with a person signing off everything that leaves my desk.
+
+- **In use:** Polly, my AI assistant, for research, first drafts of crosswalks and briefs, and pair-building [grc-workbench](https://github.com/CyberHak44/grc-workbench) step by step (I write and commit the code).
+- **Learning now:** Docker and its AI assistant for repeatable builds, local AI models so confidential documents are never uploaded, and responsible collection of public web data.
+- **My rules:** no client data in a cloud AI tool without the client's agreement; public data only, within each site's terms; no scanning or testing without written permission; every figure checked against a source.
+
 ## Intelligent Environments
 
 I founded **Intelligent Environments L.L.C-FZ**, a technology and cyber consultancy licensed in Meydan Free Zone, Dubai, and working from Abu Dhabi. It has two lines of work:
